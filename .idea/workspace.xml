@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a3fb04-6227-41d0-9a0f-b4031f461085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokefy/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pokefy/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,7 @@
       <workItem from="1598359076394" duration="2524000" />
       <workItem from="1598442347981" duration="3326000" />
       <workItem from="1598453017610" duration="726000" />
+      <workItem from="1598871283835" duration="99000" />
     </task>
     <servers />
   </component>
@@ -110,10 +111,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1598361602040" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1598453022304">
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1598871282830">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1598453022304" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1598871282830" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pokefy$test.coverage" NAME="test Coverage Results" MODIFIED="1598360314212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
